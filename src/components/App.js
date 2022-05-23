@@ -4,8 +4,8 @@ import "../styles/App.css";
 const App = () => {
   return (
     <div id="main">
-      <div data-ns-test="project-name">Netflix-Clone</div>
-      <div data-ns-test="project-name">Form-Validation</div>
+      <h1 data-ns-test="project-name">Netflix-Clone</h1>
+      <h1 data-ns-test="project-name">Form-Validation</h1>
     </div>
   );
 };
